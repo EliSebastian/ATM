@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); /*Fuente: Lato     Css: font-family: 'Lato', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');/*Fuente: Anton  Css:font-family: 'Anton', sans-serif;
+*/
+
+/*Aplicacion de las Fuentes*/
+#Titulo{
+    font-family: 'Anton', sans-serif;
+ 
+}
+
+*{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
